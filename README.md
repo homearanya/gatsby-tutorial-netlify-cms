@@ -1,1 +1,0 @@
-# gatsby-tutorial-netlify-cms
