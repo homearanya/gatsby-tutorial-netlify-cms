@@ -11,7 +11,7 @@ exports.createPages = ({ actions, graphql }) => {
         sort: { order: DESC, fields: [frontmatter___date] }
         limit: 1000
       ) {
-        edges {
+        edges { 
           node {
             frontmatter {
               path
